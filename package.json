@@ -1,0 +1,14 @@
+{
+  "name": "next-portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next -p 3000"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "next": "^7.0.3",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
+  }
+}
